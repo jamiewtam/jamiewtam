@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Profit Calc. A app with over 275+ paying merchants. 
+- 🔭 I’m the founder of Profit Calc. A Shopify app with over 275+ paying merchants. 
 - 🌱 I’m currently learning Typescript & GraphQL.
 - 💬 Ask me about Shopify, e-commerce, anything really :)
 - 📫 How to reach me: jamie.welsh.tam@gmail.com
